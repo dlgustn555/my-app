@@ -19,7 +19,7 @@
     "lint": "eslint \"./src/**/*.{ts,tsx,js,jsx,json}\" --fix"
   },
   "husky": {
-    "hooks" : {
+    "hooks": {
       "pre-commit": "lint-staged"
     }
   },
