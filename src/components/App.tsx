@@ -3,6 +3,7 @@ import logo from './logo.svg'
 import Styled, {keyframes} from 'styled-components'
 
 const temp = 10
+const a = 1
 
 const Container = Styled.div`
 text-align: center;
